@@ -1,5 +1,5 @@
 <h1>Hi there👋👋 </h1>
-<p>Welcome to my world!</p>
+<p>Welcome to my page!</p>
 
 <p>My name is YeonJu-Im and I'm am student in Daegu gatolic university</p>
 
