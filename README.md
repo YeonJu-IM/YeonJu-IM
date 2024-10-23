@@ -1,7 +1,7 @@
 <h1>Hi there👋👋 </h1>
 <p>Welcome to my page!</p>
 
-<p>My name is YeonJu-Im and I'm am student in Daegu gatolic university</p>
+<p>My name is YeonJu-Im and I'm student in Daegu gatolic university</p>
 
 <h3 align="center">Things I code with</h3>
 <p align="center">
